@@ -1,0 +1,22 @@
+.container-fluid {
+  color: rgb(153, 0, 241);
+}
+
+.nav-bar {
+}
+
+.nav-bar-color {
+  background-color: cornflowerblue;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+.nav-link-item {
+  padding-right: 4rem;
+}
+.nav-link-text {
+  color: rgb(255, 255, 255);
+}
